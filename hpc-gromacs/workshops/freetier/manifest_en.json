@@ -8,10 +8,6 @@
             "filename": "../../hpc-introduction/hpc-introduction_en.md"
         },
         {
-            "title": "Getting Started",
-            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_en.md"
-        },
-        {
             "title": "Lab 1: Add Gromacs Installer to Object Storage",
             "description": "Add Gromacs Installer to Object Storage",
             "filename": "../../obj-storage/obj-storage_en.md"
