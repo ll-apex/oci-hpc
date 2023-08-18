@@ -8,10 +8,6 @@
             "filename": "../../hpc-introduction/hpc-introduction_ko.md"
         },
         {
-            "title": "시작",
-            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ko.md"
-        },
-        {
             "title": "실습 1: 오브젝트 스토리지에 Gromacs 설치 프로그램 추가",
             "description": "오브젝트 스토리지에 Gromacs 설치 프로그램 추가",
             "filename": "../../obj-storage/obj-storage_ko.md"
