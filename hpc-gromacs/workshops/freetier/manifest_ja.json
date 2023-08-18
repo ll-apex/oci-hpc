@@ -8,10 +8,6 @@
             "filename": "../../hpc-introduction/hpc-introduction_ja.md"
         },
         {
-            "title": "開始",
-            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_ja.md"
-        },
-        {
             "title": "演習1: Gromacsインストーラをオブジェクト・ストレージに追加",
             "description": "Gromacsインストーラをオブジェクト・ストレージに追加",
             "filename": "../../obj-storage/obj-storage_ja.md"
