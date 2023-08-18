@@ -8,10 +8,6 @@
             "filename": "../../hpc-introduction/hpc-introduction_zh-CN.md"
         },
         {
-            "title": "入门",
-            "filename": "https://oracle-livelabs.github.io/common/labs/cloud-login/pre-register-free-tier-account_zh-CN.md"
-        },
-        {
             "title": "练习 1：将 Gromacs 安装程序添加到对象存储",
             "description": "将 Gromacs 安装程序添加到对象存储",
             "filename": "../../obj-storage/obj-storage_zh-CN.md"
