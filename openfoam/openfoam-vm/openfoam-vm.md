@@ -8,8 +8,6 @@ You will be guided through the installation of OpenFoam in a basic VM.Standard 2
 
 We will create two nodes, the headnode for the cluster on the public subnet, and a worker compute node in the private subnet. In order to access the worker nodes, we will first create the headnode, then generate a ssh key on the headnode, and use that public key when creating the worker node.
 
-To **log issues**, click [here](https://github.com/oracle/learning-library/issues/new) to go to the github oracle repository issue submission form.
-
 Estimated Time: 60 minutes
 
 ### Objectives
